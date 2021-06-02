@@ -1,0 +1,6 @@
+framework module TestLogin {
+  umbrella header "TestLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}

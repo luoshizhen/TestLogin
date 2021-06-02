@@ -1,0 +1,16 @@
+PODS:
+  - TestLogin (0.1.0)
+
+DEPENDENCIES:
+  - TestLogin (from `../`)
+
+EXTERNAL SOURCES:
+  TestLogin:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestLogin: 1455eaa302ddd05ea8df997a4c8ad4763ef17c78
+
+PODFILE CHECKSUM: 3629d579c93648225c0117f6d425b10b697ad041
+
+COCOAPODS: 1.10.1
